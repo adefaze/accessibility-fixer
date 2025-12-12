@@ -1,0 +1,15 @@
+{
+  "id": "a11fix",
+  "name": "Accessibility Audit & Fixer (dev)",
+  "version": "1.0.0",
+  "icon": "./fixer logo.svg",
+  "modes": ["canvas"],
+  "main": "./src/main.tsx",
+  "manifest": "/manifest.json",
+  "ui": {
+    "url": "/",
+    "width": 320,
+    "height": 600,
+    "position": "topRight"
+  }
+}

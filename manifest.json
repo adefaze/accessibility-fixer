@@ -1,0 +1,17 @@
+{
+  "id": "a11fix",
+  "name": "Accessibility Audit & Fixer",
+  "version": "1.0.0",
+  "author": "Abiodun Adefila",
+  "description": "Automated WCAG 2.1 compliance scanning with one-click fixes",
+  "modes": ["canvas"],
+  "permissions": [
+    "getCanvasRoot",
+    "getSelection",
+    "setAttributes",
+    "getPluginData",
+    "setPluginData",
+    "navigateTo"
+  ],
+  "icon": "fixer logo.svg"
+}
